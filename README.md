@@ -1,0 +1,1 @@
+# Synopsis til programmering
